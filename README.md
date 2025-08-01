@@ -9,7 +9,7 @@ privacy-policy for WetPets App
 </head>
 <body>
 <h1>WetPets Privacy Policy</h1>
-<p><strong>Effective Date:</strong> [Insert Date]</p>
+<p><strong>Effective Date:</strong> [07/31/2025]</p>
 <h2>Introduction</h2>
 <p>Welcome to WetPets! We value your trust and are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our app.</p>
 <h2>Information We Collect</h2>
@@ -28,6 +28,6 @@ privacy-policy for WetPets App
 <h2>Your Rights</h2>
 <p>You can request access, correction, or deletion of your data, and opt-out of location sharing.</p>
 <h2>Contact Us</h2>
-<p>If you have questions, contact us at: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+<p>If you have questions, contact us at: <a href="mailto:">garydeanmurphy@gmail.com</a></p>
 </body>
 </html>
